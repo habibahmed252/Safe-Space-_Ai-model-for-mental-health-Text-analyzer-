@@ -599,13 +599,13 @@ The private deployment repository contains the files required to run the applica
 
 After the final model was saved and integrated into the application, SafeSpace AI was deployed using **Streamlit Community Cloud**.
 
-## Live Application
+## Live Application try it 
 
-**[Add Streamlit App Link Here]**
+**[https://safespace-ai-mental-health-ai-model-deployed-by-app-pbu5ec5hnx.streamlit.app/]**
 
 ## Video Demo
 
-**[Add YouTube Demo Link Here]**
+**[]**
 
 ---
 
@@ -669,3 +669,13 @@ Interested in:
 - 
 - Data Visualization
 - AI Application Development
+<img width="1920" height="1015" alt="image" src="https://github.com/user-attachments/assets/7b7158c8-9957-44bb-901f-39a3e3edbeb5" />
+      
+<img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/0a24d1f1-4f03-4a55-ae6b-ae0f2f229efa" />
+
+<img width="1918" height="979" alt="image" src="https://github.com/user-attachments/assets/668bef72-e23f-405a-b927-cd660323e1d4" />
+
+<img width="1920" height="1009" alt="image" src="https://github.com/user-attachments/assets/7cb6e4c3-68db-4eee-8740-9e2b8bde436d" />
+
+<img width="1894" height="1015" alt="image" src="https://github.com/user-attachments/assets/bda6c014-6cce-4bb5-b520-ac21a653006b" />
+<img width="1920" height="1014" alt="image" src="https://github.com/user-attachments/assets/10700334-8055-4f97-9b5d-43c7b869bca0" />
