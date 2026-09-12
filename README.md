@@ -605,7 +605,7 @@ After the final model was saved and integrated into the application, SafeSpace A
 
 ## Video Demo
 
-**[]**
+**[https://youtu.be/_t7rH7UcjP0?si=lMOmBD-rzDkUO5ze]**
 
 ---
 
